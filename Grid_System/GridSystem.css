@@ -1,0 +1,13 @@
+.card_1_3{
+    height: 300px; 
+    background-color: #fc6b03; 
+    color: white;
+}
+.card_2_4{
+    height: 300px; 
+    background-color: black;
+    color: white;
+}
+.card_para_txt{
+    opacity: 0.8;
+}
